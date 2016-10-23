@@ -1,5 +1,9 @@
-1 Trabajo práctico Nº 3
-1.1 Descripción
+UTN FRA - Tecnicatura Superior en Programacion
+
+TP 02
+
+Descripcion:
+
 Definir una estructura “movie” con los datos de una pelicula:
 • Título
 • Género
@@ -7,6 +11,7 @@ Definir una estructura “movie” con los datos de una pelicula:
 • Descripción
 • Puntaje
 • Link de imagen
+
 Realizar un programa que permita agregar, borrar y modificar peliculas en un archivo binario
 mediante un menú:
 1. Agregar película
@@ -14,6 +19,7 @@ mediante un menú:
 3. Modificar película
 4. Generar página web
 5. Salir
+
 La opción 3, listará las peliculas pero no por pantalla, sino generando un archivo html
 (descargar template de ejemplo, archivo template.zip).
 Crear una función que reciba un array de estructuras movie y el nombre del archivo html de
@@ -22,6 +28,7 @@ En el archivo de la template, index.html, se encontrará la porción de código 
 repetir para cada película, dentro de este bloque, se debe cargar ciertas partes con los datos
 de cada película, a continuación se muestra un bloque y en color rojo lo que se debe variar
 según la pelicula.
+
 <!-- Repetir esto para cada pelicula -->
 <article class='col-md-4 article-intro'>
 <a href='#'>
@@ -41,7 +48,9 @@ alt=''>
 DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents
 unite in order to save his own existence.</p>
 </article>
-<!-- Repetir esto para cada pelicula →
+
+<!-- Repetir esto para cada pelicula → -->
+
 Ayuda: Se puede dividir el archivo index.html en dos, con el texto que debe ir antes de los
 bloques “article” y el texto que debe irdespués, de modo de leer estos archivos y copiar el
 contenido en el archivo html que se debe generar. Intercalando los bloques “article” con los
