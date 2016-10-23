@@ -1,6 +1,6 @@
 UTN FRA - Tecnicatura Superior en Programacion
 
-TP 02
+TP 03
 
 Descripcion:
 
@@ -48,9 +48,9 @@ alt=''>
 <a href='#'>Back to the future</a>
 </h3>
 <ul>
-<li>Género:Aventura</li>
-<li>Puntaje:86</li>
-<li>Duración:116</li>
+<li>Género: Aventura</li>
+<li>Puntaje: 86</li>
+<li>Duración: 116</li>
 </ul>
 <p>A young man is accidentally sent thirty years into the past in a time-traveling
 DeLorean invented by his friend, Dr. Emmett Brown, and must make sure his high-school-age parents
