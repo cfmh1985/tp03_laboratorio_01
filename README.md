@@ -5,15 +5,23 @@ TP 02
 Descripcion:
 
 Definir una estructura “movie” con los datos de una pelicula:
+
 • Título
+
 • Género
+
 • Duración
+
 • Descripción
+
 • Puntaje
+
 • Link de imagen
+
 
 Realizar un programa que permita agregar, borrar y modificar peliculas en un archivo binario
 mediante un menú:
+
 1. Agregar película
 2. Borrar película
 3. Modificar película
@@ -55,4 +63,3 @@ Ayuda: Se puede dividir el archivo index.html en dos, con el texto que debe ir a
 bloques “article” y el texto que debe irdespués, de modo de leer estos archivos y copiar el
 contenido en el archivo html que se debe generar. Intercalando los bloques “article” con los
 datos de cada película de la lista.
-UTN FRA
